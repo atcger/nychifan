@@ -34,14 +34,16 @@
 
 ##UI Design
 ```
-
+TBD
 ```
 
 ##URL:RESTful
-> :id number
-> :name string
-> :POST create/Join. For sth not exist
-> :PUT update sth already exist
+|约定/操作 |含义|
+| ---  | ------  |
+|:id   | Number ID  |
+|:name | String ID  | 
+|:POST | Create resource |
+|:PUT  | Update existing resource |
 
 | Resource   | RESTful URL      | Operation | Who are enabled | Description |
 | ---------- | ---------------  | ---       | ------------- | ---------------- |
